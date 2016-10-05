@@ -10,6 +10,9 @@ Date: 10/5/16
 Feedback on vision and scope document tomorrow
 
 Key People - Meeting on friday
+
   Analyst - Interperet results
+  
   Survey Creation Experts - Create surveys, have expertise on end users
+  
   IT Support - go through Mr. Kearns
